@@ -3,7 +3,7 @@
 
 | № | Название проекта | Описание проекта | Навыки и инструменты |
 | - | ---------------- | ---------------- | -------------------- |
-| 1 | [Анализ оттока клиентов банка](https://github.com/franktoblack/ya_practicum_projects/blob/6a088447f145d4bdb45b858c4364cf4efa7488ff/final_project/banks_churn.ipynb) | Выпускной проект состоит из 3 частей: Анализ интернет-магазина (выделить категорий товаров, EDA, кластеризация пользователей/проверка гипотез для выявления потребностей клиентов и для осуществления целевых рекламных рассылок, Дашборд Tableau), проект по AB тестированию с проверкой гипотез, проект по SQL. | Python: pandas, numpy, matplotlib, seaborn, plotly, scipy, sklearn, sqlalchemy; Tableau |
+| 1 | [Анализ оттока клиентов банка](https://github.com/franktoblack/ya_practicum_projects/blob/6a088447f145d4bdb45b858c4364cf4efa7488ff/final_project/banks_churn.ipynb) | Анализ оттока клиентов банка (выделил критерии оттока, составил портреты лояльных и склонных к оттоку клиентов, провел статистические тесты, выделил сегменты клиентов со схожими признаками и прописал рекомендацию по удержанию клиентов для каждого сегмента, спроектировал дашборд в Tableau | Python: pandas, numpy, matplotlib, seaborn, plotly, scipy, sklearn, sqlalchemy; Tableau |
 | 2 | [A/B тестирование](https://github.com/kolmakovwork/yandex_practikum/tree/main/2_22_strimchik_store) | проект по AB тестированию с проверкой гипотез; | Python: pandas, numpy, matplotlib, seaborn, plotly, scipy, statsmodels |
 | 3 | [SQL-проект](https://github.com/kolmakovwork/yandex_practikum/tree/main/3_18_ml_fitness) | Решение задач с использованием запросов | Python: pandas, numpy, matplotlib, seaborn, scipy, sklearn, itertools |
 
