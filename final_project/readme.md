@@ -4,8 +4,8 @@
 | № | Название проекта | Описание проекта | Навыки и инструменты |
 | - | ---------------- | ---------------- | -------------------- |
 | 1 | [Анализ оттока клиентов банка](https://github.com/kolmakovwork/yandex_practikum/tree/main/1_24_final_ecom) | Выпускной проект состоит из 3 частей: Анализ интернет-магазина (выделить категорий товаров, EDA, кластеризация пользователей/проверка гипотез для выявления потребностей клиентов и для осуществления целевых рекламных рассылок, Дашборд Tableau), проект по AB тестированию с проверкой гипотез, проект по SQL. | Python: pandas, numpy, matplotlib, seaborn, plotly, scipy, sklearn, sqlalchemy; Tableau |
-| 2 | [A/B тестирование](https://github.com/kolmakovwork/yandex_practikum/tree/main/2_22_strimchik_store) | EDA, выявление успешности игр для прогнозирования на след год, составление портрета покупателя, проверка гипотез. | Python: pandas, numpy, matplotlib, seaborn, plotly, scipy, statsmodels |
-| 3 | [SQL-проект](https://github.com/kolmakovwork/yandex_practikum/tree/main/3_18_ml_fitness) | EDA, обучение модели для прогнозирования ухода клиента и выборка лучшей, кластеризация клиентов, рекомендации чтобы меньше было оттока у фитнес-центров. | Python: pandas, numpy, matplotlib, seaborn, scipy, sklearn, itertools |
+| 2 | [A/B тестирование](https://github.com/kolmakovwork/yandex_practikum/tree/main/2_22_strimchik_store) | проект по AB тестированию с проверкой гипотез; | Python: pandas, numpy, matplotlib, seaborn, plotly, scipy, statsmodels |
+| 3 | [SQL-проект](https://github.com/kolmakovwork/yandex_practikum/tree/main/3_18_ml_fitness) | Решение задач с использованием запросов | Python: pandas, numpy, matplotlib, seaborn, scipy, sklearn, itertools |
 
 Датасетов в папках нет, потому что запрещено правилами ЯП выкладывать учебные датасеты, но сохранены результаты с графиками.
 К каждому проекту прилагается ссылка на сайт-просмотрщик блокнотов Jupyter Notebook, так как внутренние ссылки в блокнотах не всегда работают корректно в среде гитхаба
