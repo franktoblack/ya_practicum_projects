@@ -1,4 +1,6 @@
 # Проект "Анализ оттока клиентов"
+[Ссылка на просмотр в nbviewer](https://nbviewer.org/github/franktoblack/ya_practicum_projects/blob/main/ml_project/ml_project.ipynb)
+
 Необходимо провести анализ и подготовить план действий по удержанию клиентов сети фитнес-центров «Культурист-датасаентист».
 
 ## В задачи входят:
