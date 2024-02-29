@@ -1,5 +1,7 @@
-[Ссылка на проект в для просмотра в nbviewer](https://nbviewer.org/github/franktoblack/ya_practicum_projects/blob/main/business_indicators/business_indicators.ipynb)
+
 ## Проект "Реклама Procrastinate Pro+"
+[Ссылка на проект в для просмотра в nbviewer](https://nbviewer.org/github/franktoblack/ya_practicum_projects/blob/main/business_indicators/business_indicators.ipynb)
+
 Задачей проекта является исследование расходов на рекламу приложения Procrastinate Pro+, терпящего последние несколько месяцев убытки, и выяснение причин происходящего.
 
 В распоряжении имеются данные о пользователях, привлечённых с 1 мая по 27 октября 2019 года:
