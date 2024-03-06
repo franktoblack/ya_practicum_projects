@@ -1,5 +1,5 @@
 # Анализ рекламы онлайн приложения
-[Просмотр в nbviewer](https://nbviewer.org/github/franktoblack/ya_practicum_projects/blob/main/business_indicators/business_indicators.ipynb)
+[Просмотр в nbviewer](https://nbviewer.org/github/franktoblack/ya_practicum_projects/blob/main/2_cohort_analysis/2_cohort_analysis.ipynb)
 
 ## Описание проекта
 
