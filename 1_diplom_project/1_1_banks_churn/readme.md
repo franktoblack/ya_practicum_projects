@@ -1,6 +1,5 @@
 # Анализ оттока клиентов банка
-
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.html)     [ipynb](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.ipynb)
+[Просмотр в nbviewer](https://nbviewer.org/github/franktoblack/ya_practicum_projects/blob/6a088447f145d4bdb45b858c4364cf4efa7488ff/final_project/banks_churn.ipynb)
 
 ## Описание проекта
 
