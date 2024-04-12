@@ -1,5 +1,5 @@
 # Анализ оттока клиентов сети фитнес-центров
-[Просмотр в nbviewer](https://nbviewer.org/github/franktoblack/ya_practicum_projects/blob/main/ml_project/ml_project.ipynb)
+[Просмотр в nbviewer](https://nbviewer.org/github/franktoblack/ya_practicum_projects/blob/main/3_machine_learning/3_machine_learning.ipynb)
 
 ## Описание проекта
 
